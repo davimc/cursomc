@@ -15,3 +15,11 @@
   <li>MySQL</li>
   <li>MongoDB</li>  
  </ul>
+<h4>Tecnologias secundárias e Padrões</h4>
+<ul>
+  <li>Heroku</li>
+  <li>MockMailService</li>
+  <li>SMTP do Google</li>
+  <li>Strategy</li>
+  <li>Template Method</li>
+</ul>
